@@ -1011,7 +1011,7 @@ function NuevoMotor() {
                                                                                     modelo: e.target.value
                                                                                 })),
                                                                         placeholder: "Ej: 1LA7",
-                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400"
+                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500/20 focus:shadow-md"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/motores/nuevo/page.tsx",
                                                                         lineNumber: 273,
@@ -1043,7 +1043,7 @@ function NuevoMotor() {
                                                                                     potencia: e.target.value
                                                                                 })),
                                                                         placeholder: "Ej: 75 HP",
-                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400"
+                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500/20 focus:shadow-md"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/motores/nuevo/page.tsx",
                                                                         lineNumber: 283,
@@ -1075,7 +1075,7 @@ function NuevoMotor() {
                                                                                     voltaje: e.target.value
                                                                                 })),
                                                                         placeholder: "Ej: 440V",
-                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400"
+                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500/20 focus:shadow-md"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/motores/nuevo/page.tsx",
                                                                         lineNumber: 293,
@@ -1107,7 +1107,7 @@ function NuevoMotor() {
                                                                                     amperaje: e.target.value
                                                                                 })),
                                                                         placeholder: "Ej: 150A",
-                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400"
+                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500/20 focus:shadow-md"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/motores/nuevo/page.tsx",
                                                                         lineNumber: 303,
@@ -1139,7 +1139,7 @@ function NuevoMotor() {
                                                                                     rpm: e.target.value
                                                                                 })),
                                                                         placeholder: "Ej: 1750",
-                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400"
+                                                                        className: "bg-white/50 hover:bg-white focus:bg-white border-gray-200 hover:border-gray-300 focus:border-gray-400 transition-all duration-300 placeholder:text-gray-400 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500/20 focus:shadow-md"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/motores/nuevo/page.tsx",
                                                                         lineNumber: 313,
